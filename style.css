@@ -1,0 +1,65 @@
+#navbar {
+    width: 100%;
+    height: 25px;
+}
+#navbar ul {
+    margin-left: 1200px;
+}
+#navbar ul li {
+    list-style-type: none;
+    float: left;
+    padding: 10px;
+}
+#navbar ul li a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.87);
+}
+#navbar ul li a:hover {
+    text-decoration: underline;
+}
+.btn {
+    margin-top: 1px;
+    width: 120px;
+    height: 35px;
+    background-color: blue;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 3px;
+    
+}
+.btn a {
+    font-style: "Google Sans" Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+.logo {
+    margin-top: 150px;
+    margin-left:650px;
+}
+.search {
+    margin-top: 20px;
+    margin-left: 520px ;
+    width: 500px;
+    height: 25px;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 25px;
+}
+.btn2 {
+    margin-left: 650px;
+    margin-top: 20px;
+    width: 120px;
+    height: 35px;
+}
+.btn3 {
+    width: 250px;
+    height: 35px;
+}
+.btn2 a{
+    text-decoration: none;
+    color: black;
+}
+.btn3 a{
+    text-decoration: none;
+    color: black;
+}
